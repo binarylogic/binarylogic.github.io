@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fdsf</title>
-    <link>http://yourSiteHere/</link>
-    <description>Recent content on fdsf</description>
+    <title>Posts on fdsf</title>
+    <link>http://yourSiteHere/post/</link>
+    <description>Recent content in Posts on fdsf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-usss</language>
     <lastBuildDate>Sat, 07 Mar 2015 13:40:43 -0500</lastBuildDate>
-    <atom:link href="http://yourSiteHere/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://yourSiteHere/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>This is my first post</title>
@@ -20,20 +20,6 @@
 &lt;p&gt;fdskjhfdl sfhdjs klfhdjs khfdjk&lt;/p&gt;
 
 &lt;p&gt;fdjksfhdjls kfhds fjhsd ljskdh&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://yoursitehere/about/</link>
-      <pubDate>Sat, 07 Mar 2015 13:39:57 -0500</pubDate>
-      
-      <guid>http://yoursitehere/about/</guid>
-      <description>
-
-&lt;h2 id=&#34;a-headline:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;A headline&lt;/h2&gt;
-
-&lt;p&gt;Some Content&lt;/p&gt;
 </description>
     </item>
     
