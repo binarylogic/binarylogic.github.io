@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on fdsf</title>
+    <title>fdsf </title>
     <link>http://yourSiteHere/post/</link>
-    <description>Recent content in Posts on fdsf</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-usss</language>
-    <lastBuildDate>Sat, 07 Mar 2015 13:40:43 -0500</lastBuildDate>
-    <atom:link href="http://yourSiteHere/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <author>Ben Johnson</author>
+    <rights>(C) 2015</rights>
+    <updated>2015-03-07 13:40:43 -0500 EST</updated>
+
     
-    <item>
-      <title>This is my first post</title>
-      <link>http://yoursitehere/post/first/</link>
-      <pubDate>Sat, 07 Mar 2015 13:40:43 -0500</pubDate>
       
-      <guid>http://yoursitehere/post/first/</guid>
-      <description>&lt;p&gt;This is a test post&lt;/p&gt;
+        <item>
+          <title>This is my first post</title>
+          <link>http://yoursitehere/post/first/</link>
+          <pubDate>Sat, 07 Mar 2015 13:40:43 EST</pubDate>
+          <author>Ben Johnson</author>
+          <guid>http://yoursitehere/post/first/</guid>
+          <description>&lt;p&gt;This is a test post&lt;/p&gt;
 
 &lt;p&gt;fdskjhfdl sfhdjs klfhdjs khfdjk&lt;/p&gt;
 
 &lt;p&gt;fdjksfhdjls kfhds fjhsd ljskdh&lt;/p&gt;
 </description>
-    </item>
+        </item>
+      
     
+
   </channel>
 </rss>
