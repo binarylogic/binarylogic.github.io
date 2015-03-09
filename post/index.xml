@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> </title>
+    <title>Binary Logic </title>
     <link>http://binarylogic.github.io/post/</link>
     <language>en-us</language>
     <author>Ben Johnson</author>
@@ -11,16 +11,12 @@
     
       
         <item>
-          <title>This is my first post</title>
+          <title>Setting up my new blog, stay tuned</title>
           <link>http://binarylogic.github.io/post/first/</link>
           <pubDate>Sat, 07 Mar 2015 13:40:43 EST</pubDate>
           <author>Ben Johnson</author>
           <guid>http://binarylogic.github.io/post/first/</guid>
-          <description>&lt;p&gt;This is a test post&lt;/p&gt;
-
-&lt;p&gt;fdskjhfdl sfhdjs klfhdjs khfdjk&lt;/p&gt;
-
-&lt;p&gt;fdjksfhdjls kfhds fjhsd ljskdh&lt;/p&gt;
+          <description>&lt;p&gt;Things will be setup shortly. I have some good announcement coming.&lt;/p&gt;
 </description>
         </item>
       
