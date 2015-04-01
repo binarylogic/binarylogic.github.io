@@ -1,3 +1,7 @@
+html {
+  font-weight: 500;
+}
+
 /* Blue */
 .theme-binarylogic .sidebar,
 .theme-binarylogic .sidebar-toggle:active,
